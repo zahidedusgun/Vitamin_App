@@ -1,0 +1,36 @@
+{
+    "vitamins":[
+      {
+        "id": 1,
+        "vitamin_name": "Vitamin A",
+        "sources": "Carrots, fish oil, spinach",
+        "daily_requirement": "700 - 900 mcg",
+        "benefits": "Eye health, immune system support"
+      },
+      {
+        "id": 9,
+        "vitamin_name": "Vitamin B12 (Cobalamin)",
+        "sources": "Liver, dairy products, salmon",
+        "daily_requirement": "2.4 mcg",
+        "benefits": "Blood formation, nervous system health"
+      },
+      {
+        "id": 10,
+        "vitamin_name": "Vitamin C (Ascorbic Acid)",
+        "sources": "Oranges, strawberries, broccoli",
+        "daily_requirement": "65 - 90 mg",
+        "benefits": "Antioxidant, immune system support"
+      },
+      {
+        "id": 11,
+        "vitamin_name": "Vitamin D",
+        "sources": "Sunlight, salmon, milk",
+        "daily_requirement": "600 - 800 IU",
+        "benefits": "Calcium absorption, bone health"
+      }
+
+
+    ]
+    
+    
+}

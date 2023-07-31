@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+.delete {
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.delete:hover {
+  background-color: #fff;
+  color: #ff0000;
+  border: 1px solid #ff0000;
+  padding: 7px 14px;
+}
+.MainDiv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  gap: 50px;
+}
+.card-header {
+  text-align: center;
+}
+.cardDiv {
+  column-gap: 20px;
+  row-gap: 20px;
+  height: 500px;
+  width: 500px;
+}
+h1 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 60px;
+  color: #023f2b;
+}
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+.Refresh {
+  cursor: pointer;
+  justify-content: center;
+  display: grid;
+  align-items: center;
+  margin-top: 20px;
+}
+.btn-success:hover {
+  background-color: #fff;
+  color: #28a745;
+  border: 1px solid #28a745;
+  padding: 7px 14px;
+}
+.icon {
+  border: none;
+  background: no-repeat;
+  font-size: 45px;
+}
+.icon:hover {
+  color: #117453;
+}
+.title {
+  color: #ff0000;
+}
